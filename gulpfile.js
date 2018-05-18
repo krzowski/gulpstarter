@@ -10,6 +10,11 @@
 // gulp build
 
 
+// minify resources in html:
+// <!--build:css css/style.min.css-->
+// <!--build:js js/main.min.js -->
+// <!-- endbuild -->
+
 
 
 var gulp = require('gulp');
